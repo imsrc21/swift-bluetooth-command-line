@@ -9,7 +9,7 @@
 
 ### Configuration :
 
-To run this script, you will require XCode command line tools. You can download command line tools from this [link] (https://developer.apple.com/download/more/)
+To run this script, you will require XCode command line tools. You can download command line tools from this [link](https://developer.apple.com/download/more/)
 
 ### Usage :
 
